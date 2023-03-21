@@ -1,5 +1,5 @@
 
 
-Olá, souo RuanFigueiredo, estou  interessado em desenvolvimento BackEnd, quero entrar nesse mercado e atualmente estou Desenvolvendo em Node.js, Express,
-Sequelize, e Banco de Dados MySQL. para entrar em contato comigo é só acessar meu linkedin:https://www.linkedin.com/in/ruan-thiago-silva-de-figueiredo/
-ou pelo meu Whatsapp 84 987417396.
+Hello, I'm RuanFigueiredo, I'm interested in BackEnd development, I want to enter this market and I'm currently developing in Node.js, Express,
+Sequelize, and MySQL Database. to contact me just access my linkedin:https://www.linkedin.com/in/ruan-silva-figueiredo/
+or by my Whatsapp 47 98886 2670.
